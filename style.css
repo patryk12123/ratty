@@ -1,0 +1,54 @@
+body{margin: 0!important;}
+main{
+    background: #000;
+    color: #fff;
+    min-width:99%;
+    margin-left: auto;
+    margin-right: auto;
+    min-height:20%;
+}
+header{
+    background-color: #f0f;
+    width:100%;
+    min-height:150px;
+}
+header>p{
+    margin:0;
+    font-size: 3em;
+    text-align: center;
+    padding-top: 10px;
+}
+section{
+    display:flex;
+    background-color: #00f;
+    width:100%;
+    min-height:1000px;
+}
+article{
+    width:75%;
+    min-height:110px;
+
+}
+nav{
+    background-color: #66f;
+    width:25%;
+    height:400px;
+
+}
+footer{
+    background-color: #f66;
+    width:100%;
+    min-height:100px;
+
+}
+
+
+/* 4now only */
+
+p{
+    margin:0;
+    font-size: 2em;
+    padding-top: 16px;
+    text-align: center;
+    width:100%;
+}
